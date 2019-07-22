@@ -1,3 +1,7 @@
+* {
+  background-color: pink !important
+}
+
 @keyframes morph {
     100% {
         width: 140px;
@@ -7,7 +11,6 @@
 }
 
 body{
-    background-color: black;  
     margin: 50px;
     height: 140px;
     display: flex;
